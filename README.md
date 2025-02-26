@@ -13,6 +13,6 @@ This project focuses on sentiment classification of movie reviews, where the goa
   - Performance Optimization: Experimented with learning rate schedules, feature selection, and weight regularization to enhance model accuracy.
 3. Model Evaluation
   - Perceptron: Achieved 78% accuracy
-  - Logistic Regression: Achieved at least 80% accuracy
+  - Logistic Regression: Achieved 82% accuracy
   - Runtime Efficiency: within 20 seconds (or 60 seconds for advanced feature extraction).
 
