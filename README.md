@@ -1,6 +1,6 @@
 ### sentiment_classification
 # Overview:
-This project focuses on sentiment classification of movie reviews, where the goal is to distinguish between positive and negative sentiments in text. Using a machine learning pipeline, we implemented multiple classifiers and feature extraction techniques to improve accuracy on a binary sentiment classification task.
+This project focuses on sentiment classification of movie reviews, where the goal is to distinguish between positive and negative sentiments in text. Using a machine learning pipeline, I implemented multiple classifiers and feature extraction techniques to improve accuracy on a binary sentiment classification task.
 
 # Key Components:
 1. Feature Engineering
